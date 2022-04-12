@@ -1,5 +1,5 @@
 IonJs.config({
-   baseURL: "/modules/@o2o/ionjs/libs/",
+   baseURL: "/modules/o2o/ionjs/libs/",
    map: {
     "ion": "main.js",
     "ion/component": "component.js",
