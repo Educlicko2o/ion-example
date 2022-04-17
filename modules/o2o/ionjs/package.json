@@ -1,6 +1,6 @@
 {
   "name": "@amarnathp-o2o/ionjs",
-  "version": "0.1.6",
+  "version": "0.1.5",
   "description": "Enhancing your web app",
   "main": "/dist/ion.app.js",
   "scripts": {

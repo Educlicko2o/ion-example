@@ -1,0 +1,8 @@
+{
+  "name": "ionjs project",
+  "description": "ion js example project",
+  "style": {
+    "backgroundColor": "#fff",
+    "themeColor": "#fff"
+  }
+}
