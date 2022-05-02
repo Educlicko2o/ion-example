@@ -3,6 +3,9 @@
   "description": "ion js example project",
   "style": {
     "backgroundColor": "#fff",
-    "themeColor": "#fff"
+    "themeColor": "#fff",
+    "color": "#000",
+    "padding": "0px",
+    "margin": "0px"
   }
 }
